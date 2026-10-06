@@ -1,0 +1,20 @@
+# Artefacts de build CMake (générés par `cmake .` / `make`)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Makefile
+
+# Exécutables compilés
+bin/
+
+# Objets et binaires C/C++
+*.o
+*.obj
+*.out
+*.exe
+
+# Fichiers temporaires d'éditeurs
+*~
+*.swp
